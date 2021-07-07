@@ -27,7 +27,6 @@ body {
     list-style-type: none;
     padding: 20px;
     cursor: pointer;
-    border-bottom: 1px solid #c4c4c4;
 }
 
 .content {
@@ -37,10 +36,11 @@ body {
 }
 
 .tab-content {
-    display: none;
-    margin: 50px 0;
+    padding: 20px;
+    width: 50%;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .active {
-    display: block;
+    border-bottom: 1px solid black;
 }

@@ -12,23 +12,23 @@
         <h2 class="title">Menu of the day</h2>
         <div class="nav">
             <ul>
-                <li class="tab">Starters</li>
-                <li class="tab">Side dishes</li>
-                <li class="tab">Main course</li>
-                <li class="tab">Desserts</li>
+                <li class="tab active" onclick="handleEvent(event, 'starters')">Starters</li>
+                <li class="tab" onclick="handleEvent(event, 'side-dishes')">Side dishes</li>
+                <li class="tab" onclick="handleEvent(event, 'main-course')">Main course</li>
+                <li class="tab" onclick="handleEvent(event, 'desserts')">Desserts</li>
             </ul>
         </div>
         <div class="content">
-            <div class="tab-content">
+            <div class="tab-content" id="starters">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic praesentium quas saepe perspiciatis et architecto velit dolor accusantium! Quibusdam, expedita.
             </div>
-            <div class="tab-content">
+            <div class="tab-content" id="side-dishes">
                 TEsting
             </div>
-            <div class="tab-content">
+            <div class="tab-content" id="main-course">
                 hello its me
             </div>
-            <div class="tab-content">
+            <div class="tab-content" id="desserts">
                 Desserts are on me!
             </div>
         </div>
