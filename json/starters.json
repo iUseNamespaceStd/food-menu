@@ -2,31 +2,37 @@
     {
         "id": 1,
         "name": "Bacon rings",
-        "image": "",
-        "ratings": 3
+        "image": "../media/starters/bacon_rings.jpeg",
+        "ratings": 5
     },
     {
         "id": 2,
         "name": "Prawn and ginger dumplings",
-        "image": "",
-        "ratings": 5
+        "image": "../media/starters/dumplings.jpeg",
+        "ratings": 0
     },
     {
         "id": 3,
         "name": "Bacon and cheese croquettes",
-        "image": "",
+        "image": "../media/starters/bacon_cheese.jpeg",
         "ratings": 4
     },
     {
         "id": 4,
         "name": "Moroccan lamb cigars",
-        "image": "",
-        "ratings": 4
+        "image": "../media/starters/lamb_cigars.jpeg",
+        "ratings": 3
     },
     {
         "id": 5,
         "name": "Chicken and pine nut meatballs",
-        "image": "",
-        "ratings": 3
+        "image": "../media/starters/chicken_pine.jpeg",
+        "ratings": 2
+    },
+    {
+        "id": 6,
+        "name": "Bruschetta two ways",
+        "image": "../media/starters/bruschetta.jpeg",
+        "ratings": 4
     }
 ]

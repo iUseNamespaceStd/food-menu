@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Maltesers Tiramisu",
         "image": "../media/desserts/tiramisu.jpeg",
-        "ratings": 4
+        "ratings": 2
     },
     {
         "id": 2,
@@ -15,18 +15,24 @@
         "id": 3,
         "name": "Apple and butterscotch pie",
         "image": "../media/desserts/pie.jpeg",
-        "ratings": 4
+        "ratings": 5
     },
     {
         "id": 4,
         "name": "Roasted strawberry crumble",
         "image": "../media/desserts/crumble.jpeg",
-        "ratings": 4
+        "ratings": 5
     },
     {
         "id": 5,
         "name": "Chocolate and mint cheesecake",
         "image": "../media/desserts/cheesecake.jpeg",
+        "ratings": 3
+    },
+    {
+        "id": 6,
+        "name": "Choc a block",
+        "image": "../media/desserts/choc_block.jpeg",
         "ratings": 4
     }
 ]

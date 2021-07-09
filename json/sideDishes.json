@@ -2,31 +2,37 @@
     {
         "id": 1,
         "name": "Garlic and herb butter smashed potatoes",
-        "image": "",
+        "image": "../media/side_dishes/smashed_potatoes.jpg",
         "ratings": 5
     },
     {
         "id": 2,
         "name": "Mexican corn on the cob",
-        "image": "",
+        "image": "../media/side_dishes/corn.jpeg",
         "ratings": 4
     },
     {
         "id": 3,
         "name": "Rainbow slaw with tahini dressing",
-        "image": "",
+        "image": "../media/side_dishes/rainbow_slaw.jpeg",
         "ratings": 5
     },
     {
         "id": 4,
         "name": "Asian chicken salad",
-        "image": "",
+        "image": "../media/side_dishes/chicken_salad.jpeg",
         "ratings": 3
     },
     {
         "id": 5,
         "name": "Chorizo potato salad",
-        "image": "",
-        "ratings": 5
+        "image": "../media/side_dishes/chorizo.jpeg",
+        "ratings": 2
+    },
+    {
+        "id": 6,
+        "name": "Vegetable quinoa pilaf",
+        "image": "../media/side_dishes/quinoa.jpeg",
+        "ratings": 4
     }
 ]

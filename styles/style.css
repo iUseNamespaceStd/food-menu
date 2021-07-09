@@ -37,28 +37,27 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 50px;
 }
 
-.tab-content#desserts {
-    width: 100%;
-    /* padding: 0 100px;
+.tab-content {
     display: grid;
-    grid-template-columns: 1fr 1fr; */
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
 }
 
 .cards {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     max-width: 400px;
+    margin: 20px 50px;
 }
 
 .label {
@@ -69,4 +68,12 @@ body {
 
 .cards-img {
     width: 400px;
+}
+
+.wrapper {
+    padding-bottom: 10px;
+}
+
+.fa-star {
+    color: rgb(255, 197, 37);
 }

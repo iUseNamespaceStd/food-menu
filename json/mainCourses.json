@@ -2,31 +2,37 @@
     {
         "id": 1,
         "name": "Dukkah salmon with pickled beetroot",
-        "image": "",
-        "ratings": 5
+        "image": "../media/main_courses/dukkah.jpg",
+        "ratings": 3
     },
     {
         "id": 2,
         "name": "Char siu duck with noodles",
-        "image": "",
+        "image": "../media/main_courses/charsiu.jpg",
         "ratings": 4
     },
     {
         "id": 3,
         "name": "Quick chipotle chicken quesadillas",
-        "image": "",
+        "image": "../media/main_courses/quesadillas.jpg",
         "ratings": 5
     },
     {
         "id": 4,
         "name": "Sausage and mushroom tagliatelle",
-        "image": "",
-        "ratings": 5
+        "image": "../media/main_courses/tagliatelle.jpg",
+        "ratings": 4
     },
     {
         "id": 5,
         "name": "Za'atar roasted chicken with saffron spinach pilaf",
-        "image": "",
-        "ratings": 5
+        "image": "../media/main_courses/roasted_chicken.jpg",
+        "ratings": 3
+    },
+    {
+        "id": 6,
+        "name": "Spicy dhal with eggs",
+        "image": "../media/main_courses/dhal.jpg",
+        "ratings": 3
     }
 ]
