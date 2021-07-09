@@ -1,11 +1,12 @@
 body {
     margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .container {
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .title {
@@ -25,22 +26,47 @@ body {
 
 .tab {
     list-style-type: none;
-    padding: 20px;
+    padding: 10px;
+    margin: 10px 50px;
+    font-size: 18px;
     cursor: pointer;
 }
 
 .content {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.tab-content {
-    padding: 20px;
-    width: 50%;
-    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+.tab-content#desserts {
+    width: 100%;
+    /* padding: 0 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .active {
     border-bottom: 1px solid black;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    max-width: 400px;
+}
+
+.label {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 0px;
+}
+
+.cards-img {
+    width: 400px;
 }

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Garlic and herb butter smashed potatoes",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 2,
+        "name": "Mexican corn on the cob",
+        "image": "",
+        "ratings": 4
+    },
+    {
+        "id": 3,
+        "name": "Rainbow slaw with tahini dressing",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 4,
+        "name": "Asian chicken salad",
+        "image": "",
+        "ratings": 3
+    },
+    {
+        "id": 5,
+        "name": "Chorizo potato salad",
+        "image": "",
+        "ratings": 5
+    }
+]

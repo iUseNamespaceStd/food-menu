@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Bacon rings",
+        "image": "",
+        "ratings": 3
+    },
+    {
+        "id": 2,
+        "name": "Prawn and ginger dumplings",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 3,
+        "name": "Bacon and cheese croquettes",
+        "image": "",
+        "ratings": 4
+    },
+    {
+        "id": 4,
+        "name": "Moroccan lamb cigars",
+        "image": "",
+        "ratings": 4
+    },
+    {
+        "id": 5,
+        "name": "Chicken and pine nut meatballs",
+        "image": "",
+        "ratings": 3
+    }
+]

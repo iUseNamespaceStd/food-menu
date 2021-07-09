@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Dukkah salmon with pickled beetroot",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 2,
+        "name": "Char siu duck with noodles",
+        "image": "",
+        "ratings": 4
+    },
+    {
+        "id": 3,
+        "name": "Quick chipotle chicken quesadillas",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 4,
+        "name": "Sausage and mushroom tagliatelle",
+        "image": "",
+        "ratings": 5
+    },
+    {
+        "id": 5,
+        "name": "Za'atar roasted chicken with saffron spinach pilaf",
+        "image": "",
+        "ratings": 5
+    }
+]
